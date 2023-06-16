@@ -1,0 +1,6 @@
+[submodule "one"]
+	path = one
+	url = https://github.com/prof-lucas-faria/pp1-05.git
+[submodule "two"]
+	path = two
+	url = https://github.com/prof-lucas-faria/projeto-final-k.git
